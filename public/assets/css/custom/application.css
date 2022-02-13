@@ -1,0 +1,32 @@
+.fix-align {
+    text-align: center;
+}
+
+/*table.dataTable th {*/
+/*    text-align: center;*/
+/*}*/
+
+table.dataTable td:nth-child(4) {
+    width: 135px;
+    max-width: 153px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+table.dataTable td:nth-child(5) {
+    width: 135px;
+    max-width: 153px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+table.dataTable td:nth-child(6) {
+    width: 135px;
+    max-width: 153px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+

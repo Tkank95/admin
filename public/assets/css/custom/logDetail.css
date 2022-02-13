@@ -1,0 +1,7 @@
+table.dataTable td:nth-child(8) {
+    width: 135px;
+    max-width: 540px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

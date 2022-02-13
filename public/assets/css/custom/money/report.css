@@ -1,0 +1,88 @@
+.fix-align {
+    text-align: center;
+}
+
+
+/*table.dataTable th {*/
+/*    text-align: center;*/
+/*}*/
+
+table.dataTable th:nth-child(1) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable th:nth-child(2) {
+    width: 80%;
+    max-width: 80%;
+}
+
+table.dataTable th:nth-child(3) {
+    width: 10%;
+    max-width: 10%;
+}
+
+table.dataTable th:nth-child(4) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable1 th:nth-child(1) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable1 th:nth-child(2) {
+    width: 35%;
+    max-width: 35%;
+}
+
+table.dataTable1 th:nth-child(3) {
+    width: 30%;
+    max-width: 30%;
+}
+
+table.dataTable1 th:nth-child(4) {
+    width: 30%;
+    max-width: 30%;
+}
+
+table.dataTable td:nth-child(1) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable td:nth-child(2) {
+    width: 80%;
+    max-width: 80%;
+}
+
+table.dataTable td:nth-child(3) {
+    width: 10%;
+    max-width: 10%;
+}
+
+table.dataTable td:nth-child(4) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable1 td:nth-child(1) {
+    width: 5%;
+    max-width: 5%;
+}
+
+table.dataTable1 td:nth-child(2) {
+    width: 35%;
+    max-width: 35%;
+}
+
+table.dataTable1 td:nth-child(3) {
+    width: 30%;
+    max-width: 30%;
+}
+
+table.dataTable1 td:nth-child(4) {
+    width: 30%;
+    max-width: 30%;
+}
