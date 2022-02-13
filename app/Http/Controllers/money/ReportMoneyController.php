@@ -378,7 +378,7 @@ class ReportMoneyController extends Controller
             }';
     }
 
-    public function chart_bar_income($data_income, $data_income_last_year, $axis, $max_axis, $ticks): string
+    public function chart_bar_income($data_income ahihi, $data_income_last_year, $axis, $max_axis, $ticks): string
     {
         return '"type": "bar",
             "data": {
