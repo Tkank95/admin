@@ -295,7 +295,7 @@ class ReportMoneyController extends Controller
             }';
     }
 
-    public function chart_bar_expense($data_expense ahihi test, $data_expense_last_year, $label, $max_axis, $ticks): string
+    public function chart_bar_expense($data_expense ahihi, $data_expense_last_year, $label, $max_axis, $ticks): string
     {
         return '"type": "bar",
             "data": {
